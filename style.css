@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 42%;
+    background-color: cadetblue;
+    padding: 10px;
+    width: 15%;
+    border-radius: 8px;
+    border: 2px solid rgb(50, 103, 105);
+}
+h1, h3,h4{
+    color: white;
+}
+input{
+    padding: 5px;
+    background-color: white;
+    border: 2px solid rgb(50, 103, 105);
+    border-radius: 8px;
+    margin: 5px;
+}
+div{
+    background-color: white;
+    border: 2px solid rgb(50, 103, 105);
+    border-radius: 8px;
+    margin: 5px;
+}
+button{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(35, 72, 73);
+    color: white;
+    border: 2px solid rgb(50, 103, 105);
+    border-radius: 8px;
+    width: 65%;
+}
